@@ -392,6 +392,9 @@ code {
 .user-search .input {
   width: 100%;
 }
+
+
+
 .user-search .input .prompt,
 .user-search .input .prompt:focus {
   border: none;
